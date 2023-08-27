@@ -3,3 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.col-lg-5{
+  background-color: #00b522;
+}
+
+.row row-cols-2{
+  background-color: #52a1ff;
+}
